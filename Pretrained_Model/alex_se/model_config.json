@@ -1,0 +1,20 @@
+{
+  "z_image_size": 127, 
+  "embed_config": {
+    "bn_scale": true, 
+    "embedding_feature_num": 256, 
+    "init_method": "kaiming_normal", 
+    "embedding_checkpoint_file": null, 
+    "use_bn": true, 
+    "bn_momentum": 0.05, 
+    "train_embedding": true, 
+    "stride": 8, 
+    "bn_epsilon": 1e-06, 
+    "embedding_name": "convolutional_alexnet", 
+    "weight_decay": 0.0005
+  }, 
+  "adjust_response_config": {
+    "train_bias": true, 
+    "scale": 0.001
+  }
+}
