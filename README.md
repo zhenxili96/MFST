@@ -1,8 +1,5 @@
 # MFST
 
-Multiple Convolutional Features in Siamese Networks for Object Tracking.
-# MFST
-
 [MFST: Multi-Features Siamese Tracker](https://github.com/zhenxili96/MFST)  
 Zhenxi Li, Guillaume-Alexandre Bilodeau, Wassim Bouachir  
 International Conference on Pattern Recognition (ICPR), 2020  
