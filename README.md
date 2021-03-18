@@ -5,6 +5,7 @@ Zhenxi Li, Guillaume-Alexandre Bilodeau, Wassim Bouachir
 International Conference on Pattern Recognition (ICPR), 2020  
 
 [Multiple convolutional features in Siamese networks for object tracking](https://link.springer.com/article/10.1007/s00138-021-01185-7?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue&utm_source=ArticleAuthorIncrementalIssue&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorIncrementalIssue_20210314)   
+[[arxiv link](https://arxiv.org/abs/2103.01222)]   
 Zhenxi Li, Guillaume-Alexandre Bilodeau, Wassim Bouachir  
 Machine Vision and Applications (MVAP), 2021
 
@@ -18,7 +19,22 @@ GPU: NVIDIA TITAN Xp
 python2.7  
 tensorflow1.4+   
 
-## References
+## Citation
+
+#### MFST: Multi-Features Siamese Tracker
+
+
+#### Multiple convolutional features in Siamese networks for object tracking
+@article{li2021multiple,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Multiple convolutional features in Siamese networks for object tracking},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Li, Zhenxi and Bilodeau, Guillaume-Alexandre and Bouachir, Wassim},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Machine Vision and Applications},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={32},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number={3},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={1--11},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2021},   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer}   
+}
 
 
 ## License
