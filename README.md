@@ -20,10 +20,6 @@ python2.7
 tensorflow1.4+   
 
 ## Citation
-
-#### MFST: Multi-Features Siamese Tracker
-
-
 #### Multiple convolutional features in Siamese networks for object tracking
 @article{li2021multiple,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Multiple convolutional features in Siamese networks for object tracking},   
