@@ -9,15 +9,16 @@ International Conference on Pattern Recognition (ICPR), 2020
 Zhenxi Li, Guillaume-Alexandre Bilodeau, Wassim Bouachir  
 Machine Vision and Applications (MVAP), 2021
 
-
-
-
 ## Prerequisites
 CPU: Intel(R) Core(TM) i7-3700 CPU @ 3.40GHz  
 GPU: NVIDIA TITAN Xp
 
 python2.7  
 tensorflow1.4+   
+
+## Results
+[OTB results](https://drive.google.com/file/d/1kj4zfkdkmClKBrEQz-s4lvK4vPq5meiM/view?usp=sharing) | [VOT 2018](https://drive.google.com/drive/folders/10iWQtbpzFB3K5rqdZI2LS_2jac4gBQil?usp=sharing) | [VOT 2017](https://drive.google.com/drive/folders/1RJ5j5Edt98aGSzSJlI3p5oOO69uX2nmF?usp=sharing)
+
 
 ## Citation
 #### Multiple convolutional features in Siamese networks for object tracking
